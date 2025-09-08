@@ -1,0 +1,16 @@
+# Hide FAISS index folder
+faiss_index/
+
+# Hide environment variables
+.env
+
+# Hide model file
+basic_model.txt
+
+# Hide judgements datasets
+judgements_2019.csv
+judgements_2020.csv
+judgements_2021.csv
+judgements_2022.csv
+judgements_2023.csv
+judgements_2024.csv
