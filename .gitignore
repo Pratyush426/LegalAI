@@ -1,6 +1,3 @@
-# Hide FAISS index folder
-faiss_index_2024/
-
 # Hide environment variables
 .env
 
